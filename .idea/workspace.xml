@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b826ec0-de24-4df0-a023-8a7eb12f4297" name="Changes" comment="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
-      <change afterPath="$PROJECT_DIR$/Cuadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rectangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cuadrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cuadrado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangulo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,18 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Helen-viteri"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Milena-19-C/FIGURA.git",
+    "accountId": "899e6947-28aa-4f23-87dc-c4ae82c43ad6"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -101,7 +114,7 @@
       <workItem from="1746117261525" duration="1420000" />
       <workItem from="1746623550590" duration="657000" />
       <workItem from="1746624213735" duration="25000" />
-      <workItem from="1746624256842" duration="1682000" />
+      <workItem from="1746624256842" duration="2436000" />
     </task>
     <task id="LOCAL-00001" summary="FIGURAS GEOMETRICAS">
       <option name="closed" value="true" />
@@ -175,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746625092727</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746625968942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746625968942</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746625981935</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746625981935</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

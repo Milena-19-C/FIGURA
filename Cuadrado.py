@@ -1,4 +1,4 @@
-
+from figurageometrica import *
 class Cuadrado(figurageometrica):
     def _init_(self, lado):
         super()._init_(lado, lado)

@@ -1,3 +1,4 @@
+from figurageometrica import *
 class Rectangulo(figurageometrica):
     def _init_(self, alto, ancho):
         super()._init_(alto, ancho)
