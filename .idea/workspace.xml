@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b826ec0-de24-4df0-a023-8a7eb12f4297" name="Changes" comment="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <change afterPath="$PROJECT_DIR$/bfhfdg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hfhhfh.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cuadrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cuadrado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rectangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figurageometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/figurageometrica.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Cuadrado.executor": "Run",
     "Python.FiguraGeometrica.executor": "Run",
     "Python.figurageometrica.executor": "Run",
     "Python.main.executor": "Run",
@@ -69,7 +73,30 @@
     "ChangesTree.GroupingKeys": []
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Cuadrado">
+    <configuration name="Cuadrado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FIGURAS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cuadrado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="figurageometrica" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="FIGURAS" />
       <option name="ENV_FILES" value="" />
@@ -93,6 +120,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Cuadrado" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -114,7 +146,7 @@
       <workItem from="1746117261525" duration="1420000" />
       <workItem from="1746623550590" duration="657000" />
       <workItem from="1746624213735" duration="25000" />
-      <workItem from="1746624256842" duration="2436000" />
+      <workItem from="1746624256842" duration="4722000" />
     </task>
     <task id="LOCAL-00001" summary="FIGURAS GEOMETRICAS">
       <option name="closed" value="true" />
@@ -204,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746625981935</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746627016004</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746627016004</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +279,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FIGURAS$main.coverage" NAME="figurageometrica Coverage Results" MODIFIED="1746625908378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FIGURAS$Cuadrado.coverage" NAME="Cuadrado Coverage Results" MODIFIED="1746628999266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FIGURAS$main.coverage" NAME="figurageometrica Coverage Results" MODIFIED="1746628950784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

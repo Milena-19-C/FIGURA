@@ -1,5 +1,5 @@
 class figurageometrica:
-    def _init_(self, alto, ancho):
+    def __init__(self, alto, ancho):
         self.alto = alto
         self.ancho = ancho
 @property
@@ -15,5 +15,6 @@ def ancho(self):
 def ancho(self, valor):
     self._ancho = valor
 
-def _int_(self):
+def __int__(self):
     return self.alto,
+
