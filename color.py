@@ -1,20 +1,15 @@
-class color:
-    def _init_(self, nombre):
-        self._nombre = nombre
-
-    def _str_(self):
-        return f'color: {self._dict.str_()}'
-
+class Color:
+    def __init__(self, valor):
+        self._nombre = valor
+    def __str__(self):
+        return f"Color -> {self.__dict__.__str__()}"
     @property
     def nombre(self):
         return self._nombre
-
     @nombre.setter
     def nombre(self, nombre):
         self._nombre = nombre
 
-if __name__ == '_main_':
-    c1 = color('rojo')
+if __name__ == "__main__":
+    c1 = Color("Rojo")
     print(c1)
-
-

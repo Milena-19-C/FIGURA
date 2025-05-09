@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b826ec0-de24-4df0-a023-8a7eb12f4297" name="Changes" comment="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
-      <change afterPath="$PROJECT_DIR$/Taller-.pyi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abalon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bfhfdg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cuadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hfhhfh.py" afterDir="false" />
+    <list default="true" id="0b826ec0-de24-4df0-a023-8a7eb12f4297" name="Changes" comment="color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cuadrado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/color.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/figurageometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/figurageometrica.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +61,12 @@
     "Python.Rectangulo.executor": "Run",
     "Python.Taller.executor": "Run",
     "Python.color.executor": "Run",
+    "Python.figurageometrica (1).executor": "Run",
     "Python.figurageometrica.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/MCCV/FIGURAS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,7 +84,7 @@
       <recent name="C:\MCCV\FIGURAS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.color">
+  <component name="RunManager" selected="Python.figurageometrica (1)">
     <configuration name="Cuadrado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FIGURAS" />
       <option name="ENV_FILES" value="" />
@@ -182,6 +178,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="figurageometrica (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FIGURAS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figurageometrica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="figurageometrica" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,6 +250,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.figurageometrica (1)" />
         <item itemvalue="Python.color" />
         <item itemvalue="Python.Rectangulo" />
         <item itemvalue="Python.Cuadrado" />
@@ -263,7 +283,8 @@
       <workItem from="1746667585479" duration="1010000" />
       <workItem from="1746668683784" duration="402000" />
       <workItem from="1746721090356" duration="42000" />
-      <workItem from="1746721322571" duration="1615000" />
+      <workItem from="1746721322571" duration="2114000" />
+      <workItem from="1746795970358" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="FIGURAS GEOMETRICAS">
       <option name="closed" value="true" />
@@ -369,7 +390,71 @@
       <option name="project" value="LOCAL" />
       <updated>1746629081101</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723022403</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723022403</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723055538</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723055538</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723079155</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723079155</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723201880</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723201880</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723208211</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723208211</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723277357</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723277357</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9.">
+      <option name="closed" value="true" />
+      <created>1746723283244</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723283244</updated>
+    </task>
+    <task id="LOCAL-00021" summary="color">
+      <option name="closed" value="true" />
+      <created>1746723381961</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723381961</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,12 +486,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIGURAS GEOMETRICAS" />
     <MESSAGE value="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;FIGURAS GEOMETRICAS&quot;&#10;&#10;This reverts commit a11a61a25135637b11dea36785fbcf98cc917dc9." />
+    <MESSAGE value="color" />
+    <option name="LAST_COMMIT_MESSAGE" value="color" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FIGURAS$main.coverage" NAME="figurageometrica Coverage Results" MODIFIED="1746628950784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FIGURAS$Rectangulo.coverage" NAME="Rectangulo Coverage Results" MODIFIED="1746667971409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FIGURAS$Rectangulo.coverage" NAME="Rectangulo Coverage Results" MODIFIED="1746796694991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FIGURAS$Cuadrado.coverage" NAME="Cuadrado Coverage Results" MODIFIED="1746629349100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FIGURAS$color.coverage" NAME="color Coverage Results" MODIFIED="1746722626767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FIGURAS$figurageometrica__1_.coverage" NAME="figurageometrica (1) Coverage Results" MODIFIED="1746797957931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FIGURAS$color.coverage" NAME="color Coverage Results" MODIFIED="1746797068987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
